@@ -70,19 +70,7 @@ pip install -r requirements.txt
 jupyter notebook
 ```
 
-## 📂 Структура проекта
-```
-Analysis-techstoreUSA/
-├── data/                   # Данные
-│   ├── raw/                # Исходные данные
-│   └── processed/          # Обработанные данные
-├── notebooks/              # Блокноты анализа
-│   └── Tech_Store_Sales_Analysis.ipynb
-├── .gitignore
-├── LICENSE
-├── README.md
-└── requirements.txt
-```
+
 
 ## 📈 Пример анализа
 ```python
